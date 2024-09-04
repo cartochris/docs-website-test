@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. The site is located at [https://cartochris.github.io/docs-website-test/](https://cartochris.github.io/docs-website-test/).
 
 ### Installation
 
